@@ -36,3 +36,9 @@ body {
        width: 17%;
   }
   
+  #myClock{
+    padding: 100px;
+  }
+  #logo{
+    margin: 100px;
+  }
