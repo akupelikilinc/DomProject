@@ -1,1 +1,1 @@
-# DomProject
+# JavaScript Clock
